@@ -1,6 +1,6 @@
 # hello-world
 
-# 自己紹介
+## Self-introduction
 - 名前：長坂有美
 - 出身：千葉生まれ埼玉育ち
 - 趣味
