@@ -1,5 +1,4 @@
 # hello-world
-Software
 
 # 自己紹介
 - 名前：長坂有美
